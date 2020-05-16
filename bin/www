@@ -8,6 +8,7 @@ const app = require('../app');
 const debug = require('debug')('code:server');
 const http = require('http');
 const sequelize = require('../util/db');
+const fillDB = require('../util/fill-questions');
 
 /**
  * Get port from environment and store in Express.
@@ -35,6 +36,8 @@ sequelize
       server.on('listening', onListening);
   })
   .catch(err => console.log(err));
+
+fillDB();
 
 
 /**

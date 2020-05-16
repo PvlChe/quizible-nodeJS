@@ -35,7 +35,9 @@ const Question = sequelize.define('question', {
         type: Sequelize.STRING,
         allowNull: false
     },
-
+    link: {
+        type: Sequelize.STRING
+    }
 });
 
 Question.belongsTo(Category, {

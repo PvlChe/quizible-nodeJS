@@ -8,6 +8,7 @@ exports.postQuestion = (req, res, next) => {
     const answer2 = req.body.answer2;
     const answer3 = req.body.answer3;
     const answer4 = req.body.answer4;
+    const link = req.body.link;
     Question.create({
         question: question,
         category: category,
@@ -15,7 +16,8 @@ exports.postQuestion = (req, res, next) => {
         answer1: answer1,
         answer2: answer2,
         answer3: answer3,
-        answer4: answer4
+        answer4: answer4,
+        link: link
     }).then(result => {
         console.log('question created', result);
         res.send(result);
