@@ -3,7 +3,7 @@ const mysql = require('mysql2');
 const path = require('path');
 const fastcsv = require('fast-csv');
 
-let stream = fs.createReadStream(path.join(__dirname, 'Questions - Sheet1.csv'));
+let stream = fs.createReadStream(path.join(__dirname, 'Questions.csv'));
 
 let csvData = [];
 let csvStream = fastcsv
