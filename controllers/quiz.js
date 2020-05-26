@@ -82,6 +82,18 @@ exports.getQuizByQuizcode = (req, res, next) => {
     });
 };
 
-exports.getAllQuizesByUserId = (req, res, next) => {
-
+exports.getQuizById = (req, res, next) => {
+    const quizId = req.params.id;
+    console.log(quizId);
+    Quiz.findByPk(quizId).then(
+        quiz => {
+            console.log('get quiz result', quiz);
+            res.status(201);
+            res.json(quiz.dataValues);
+        }
+    ).catch(err => {
+        console.log(err);
+        res.end();
+        next();
+    })
 };

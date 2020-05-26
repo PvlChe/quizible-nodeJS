@@ -55,11 +55,11 @@ INSERT INTO `quizible`.`questions` (`question`, `complexity`, `answer1`, `answer
 -- Fill users table
 --
 
-INSERT INTO `quizible`.`users` (`name`, `city`, `street`, `plz`, `house`, `mail`, `password`, `createdAt`, `updatedAt`) VALUES ('adidas', 'berlin', 'lynarstreet', '13353', '5', 'adida@gmail.com', 'adidas', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);
-INSERT INTO `quizible`.`users` (`name`, `city`, `street`, `plz`, `house`, `mail`, `password`, `createdAt`, `updatedAt`) VALUES ('nike', 'minsk', 'minskstreet', '13553', '5', 'nike@gmail.com', 'nike', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);
-INSERT INTO `quizible`.`users` (`name`, `city`, `street`, `plz`, `house`, `mail`, `password`, `createdAt`, `updatedAt`) VALUES ('puma', 'hamburg', 'pumastreet', '23353', '5', 'puma@gmail.com', 'puma', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);
-INSERT INTO `quizible`.`users` (`name`, `city`, `street`, `plz`, `house`, `mail`, `password`, `createdAt`, `updatedAt`) VALUES ('reebok', 'munchen', 'reebokstreet', '53353', '5', 'reebok@gmail.com', 'reebok', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);
-INSERT INTO `quizible`.`users` (`name`, `city`, `street`, `plz`, `house`, `mail`, `password`, `createdAt`, `updatedAt`) VALUES ('umbro', 'berlin', 'umbrostreet', '13353', '5', 'umbro@gmail.com', 'umbro', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);
+INSERT INTO `quizible`.`users` (`name`, `city`, `street`, `plz`, `house`, `mail`, `password`, `strategy`, `createdAt`, `updatedAt`) VALUES ('adidas', 'berlin', 'lynarstreet', '13353', '5', 'adida@gmail.com', 'adidas', '', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);
+INSERT INTO `quizible`.`users` (`name`, `city`, `street`, `plz`, `house`, `mail`, `password`, `strategy`, `createdAt`, `updatedAt`) VALUES ('nike', 'minsk', 'minskstreet', '13553', '5', 'nike@gmail.com', 'nike', '', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);
+INSERT INTO `quizible`.`users` (`name`, `city`, `street`, `plz`, `house`, `mail`, `password`, `strategy`, `createdAt`, `updatedAt`) VALUES ('puma', 'hamburg', 'pumastreet', '23353', '5', 'puma@gmail.com', 'puma', '', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);
+INSERT INTO `quizible`.`users` (`name`, `city`, `street`, `plz`, `house`, `mail`, `password`, `strategy`, `createdAt`, `updatedAt`) VALUES ('reebok', 'munchen', 'reebokstreet', '53353', '5', 'reebok@gmail.com', 'reebok', '', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);
+INSERT INTO `quizible`.`users` (`name`, `city`, `street`, `plz`, `house`, `mail`, `password`, `strategy`, `createdAt`, `updatedAt`) VALUES ('umbro', 'berlin', 'umbrostreet', '13353', '5', 'umbro@gmail.com', 'umbro', '', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);
 
 --------------------------------------
 -- Fill user-category table

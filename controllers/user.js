@@ -37,3 +37,38 @@ exports.postUser = (req, res, next) => {
         next();
     })
 };
+
+exports.getUserById = ((req, res, next) => {
+    const userId = req.params.id;
+    console.log(userId);
+    User.findByPk(userId).then(
+        result => {
+            console.log('get user result', result);
+            res.status(201);
+            res.json(result.dataValues);
+        }
+    ).catch(err => {
+        console.log(err);
+        res.end();
+        next();
+    })
+});
+
+exports.updateUserById = ((req, res, next) => {
+    const userId = req.params.id;
+    const body = req.body;
+    console.log(userId);
+    User.findByPk(userId).then(
+        result => {
+            console.log('get user result', result);
+            result.update(body);
+            result.save();
+            res.status(201);
+            res.json(result.dataValues);
+        }
+    ).catch(err => {
+        console.log(err);
+        res.end();
+        next();
+    })
+});
