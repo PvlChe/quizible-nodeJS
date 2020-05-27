@@ -44,7 +44,7 @@ app.use(sassMiddleware({
 }));
 app.use(express.static(path.join(__dirname, 'public/client-app')));
 
-app.use('/', indexRouter);
+
 app.use('/api/usersDef', usersDefRouter);
 app.use('/api/questions', questionsRouter);
 app.use('/api/quizzes', quizRouter);
@@ -52,8 +52,9 @@ app.use('/api/answers', questionAnswerRouter);
 app.use('/api/quizcodes', quizcodeRouter);
 app.use('/api/categories', categoriesRouter);
 app.use('/api/users', usersRouter);
-
-// catch 404 and forward to error handler
+app.use("*", (req,res) => {
+    res.sendFile(path.join(__dirname,"public/client-app/index.html"));
+});// catch 404 and forward to error handler
 app.use(function(req, res, next) {
   next(createError(404));
 });
