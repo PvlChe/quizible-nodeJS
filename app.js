@@ -45,7 +45,7 @@ app.use(sassMiddleware({
 app.use(express.static(path.join(__dirname, 'public/client-app')));
 
 
-app.use('/api/usersDef', usersDefRouter);
+app.use('/business', usersDefRouter);
 app.use('/api/questions', questionsRouter);
 app.use('/api/quizzes', quizRouter);
 app.use('/api/answers', questionAnswerRouter);

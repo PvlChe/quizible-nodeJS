@@ -1,0 +1,227 @@
+* {
+	margin: 0;
+	padding: 0;
+	outline: none;
+	font-family: 'Optima', serif !important;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	background-color: #FAFAFA;
+	/*	background: linear-gradient(#FAFAFA, #028E9B, #FAFAFA);
+    */}
+
+header {
+	max-height: 20vh;
+}
+
+header img {
+	position: relative;
+	top: -20px;
+	left: 40px;
+}
+
+
+
+a {
+	text-decoration: none;
+	color: #028E9B;
+}
+
+nav {
+	height: auto;
+}
+
+nav, .menu {
+	display: flex;
+	justify-content: space-between;
+	padding: 20px 20px;
+}
+
+.title {
+	padding: 15px;
+}
+
+ul {
+	list-style: none;
+}
+
+.menu li {
+	margin: 0 20px;
+	display: block;
+	position: relative;
+	max-height: 30px;
+}
+
+li > a {
+	text-decoration: none;
+	z-index: 1;
+}
+
+li > a:before {
+	content: "";
+	position: absolute;
+	width: 100%;
+	height: 1px;
+	bottom: 0;
+	left: 0;
+	background: #028E9B;
+	visibility: hidden;
+	border-radius: 5px;
+	transform: scaleX(0);
+	transition: .25s linear;
+}
+li > a:hover:before,
+li > a:focus:before {
+	visibility: visible;
+	transform: scaleX(1);
+}
+
+.content-container {
+	display: flex;
+	flex-direction: column;
+	padding: 0 100px;
+}
+
+section {
+	background-color: transparent;
+	padding: 0 40px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	min-height: 100vh;
+}
+
+#about {
+	min-height: 80vh;
+	margin: 0;
+}
+
+button {
+	height: 40px;
+	padding: 10px 20px;
+	border: 1px solid #028E9B;
+	border-radius: 7px;
+	cursor: pointer;
+	color: #028E9B;
+	background-color: white;
+	max-width: 120px;
+	margin: 10px auto;
+	transition: 0.1s;
+}
+
+button:hover {
+	background-color: #028E9B;
+	color: white;
+}
+
+button.login, button.contact {
+	background-color: #028E9B;
+	color: #FAFAFA;
+	margin: 0;
+}
+
+button.login {
+	margin: 30px;
+	margin-top: -10px;
+}
+
+.about-button {
+
+}
+
+.content {
+	width: 400px;
+	text-align: center;
+}
+
+.content>* {
+	margin-bottom: 20px;
+}
+
+
+.configurable-content, .integration-content {
+	align-self: flex-end;
+}
+
+.pricing-content {
+	flex-wrap: wrap;
+	width: auto;
+	display: flex;
+	justify-content: space-around;
+}
+
+.pricing-content>div {
+	min-width: 250px;
+	min-height: 300px;
+}
+
+#pricing {
+
+}
+
+#pricing>h1 {
+	text-align: center;
+	margin-bottom: 40px;
+}
+
+.card {
+	background-color: #028E9B;
+	border-radius: 7px;
+	display: flex;
+	flex-direction: column;
+	box-shadow: 0px 0px 15px 1px rgba(2, 142, 155, 0.4);
+}
+
+.card>span{
+	display: block;
+	padding: 10px;
+	font-size: 2rem;
+	color: white;
+}
+
+.grow { transition: all .2s ease-in-out; }
+.grow:hover { transform: scale(1.05); }
+
+.card-content {
+	flex: 1;
+	width: 100%;
+	display: flex;
+	border-radius: 7px;
+	border-top-right-radius: 0px;
+	border-top-left-radius: 0px;
+	flex-direction: column;
+	justify-content: space-around;
+	background-color: white;
+}
+
+.form-content {
+	margin: 40px 0;
+	width: 100%;
+}
+
+.form-content>form {
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	padding: 10px 0;
+}
+
+.form-content input {
+	margin-right: 80px;
+	border-radius: 7px;
+	padding: 5px;
+	box-shadow: none;
+	border: 1px solid #028E9B;
+}
+
+footer {
+	background-color: #028E9B;
+
+	min-height: 200px;
+}
+
+

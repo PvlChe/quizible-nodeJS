@@ -1,22 +1,116 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>{{title}}</title>
-    <link rel='stylesheet' href='/stylesheets/style.css' />
-      <script src="javascripts/main.js" defer></script>
-  </head>
-  <body>
-    <header>
-        <h1 id="logo">Quizible</h1>
-    </header>
-    <section class="start">
-        <input type="text" name="age" placeholder="Age">
-        <input type="text" name="plz" placeholder="PLZ">
-        <input type="text" name="quizcode" placeholder="Quizcode">
-        <button onclick="startQuiz(this)">Start</button>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Quizible</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <script defer src="https://unpkg.com/smoothscroll-polyfill@0.4.4/dist/smoothscroll.min.js"></script>
+    <script src="js/wow.min.js"></script>
+    <script>new WOW().init();</script>
+</head>
+<body>
+<header>
+    <nav>
+        <img width = "140px" height="112px" src="img/logo.png" alt="logo">
+        <ul class="menu">
+            <li><a href="#configurable">Configuration</a></li>
+            <li><a href="#analytics">Analitics</a></li>
+            <li><a href="#integration">Integrations</a></li>
+            <li><a href="#pricing">Pricing</a></li>
+            <li><a href="#contact">Contact</a></li>
+            <button class="login">Login</button>
+        </ul>
+    </nav>
+</header>
+<div class="content-container">
+    <section id="about">
+        <div class="content about-content wow fadeInLeft">
+            <h1>Higher email opt-in rates in less than 30 minutes</h1>
+            <p>Install Listagram's interactive opt-in form and your opt-in rates will likely be the highest you've ever seen. It takes less than 30 minutes</p>
+            <button class="about-button">try it out</button>
+        </div>
     </section>
-  <section class="quiz hidden">
+    <section id="configurable">
+        <div class="content configurable-content wow fadeInRight">
+            <h1>Configurable strategy</h1>
+            <ul>
+                <li>Complexity</li>
+                <li>Number of questions</li>
+                <li>Time for answer</li>
+                <li>Desing</li>
+                <li>Awards</li>
+            </ul>
+            <button>try it out</button>
+        </div>
+    </section>
+    <section id="analytics">
+        <div class="content analytics-content wow fadeInLeft">
+            <h1>Advanced analitics</h1>
+            <ul>
+                <p>Install Listagram's interactive opt-in form and your opt-in rates will likely be the highest you've ever seen. It takes less than 30 minutes</p>
+            </ul>
+            <button>try it out</button>
+        </div>
+    </section>
+    <section id="integration">
+        <div class="content integration-content wow fadeInRight">
+            <h1>Integration</h1>
+            <ul>
+                <li>Complexity</li>
+                <li>Number of questions</li>
+                <li>Time for answer</li>
+                <li>Desing</li>
+                <li>Awards</li>
+            </ul>
+            <button>try it out</button>
+        </div>
+    </section>
+    <section id="pricing">
+        <h1>Unsere Preismodelle</h1>
+        <div class="content pricing-content wow fadeIn">
+            <div class="card grow">
+                <span>default</span>
+                <div class="card-content">
+                    <span>Tarif desription</span>
+                    <ul>
+                        <li>one</li>
+                        <li>two</li>
+                        <li>three</li>
+                        <li>four</li>
+                    </ul>
+                    <h3>19.99 €</h3>
+                    <button>Sign up</button>
+                </div>
+            </div>
+            <div class="card grow">
+                <span>premium</span>
+                <div class="card-content">
+                    <span>Tarif description</span>
+                    <ul>
+                        <li>one</li>
+                        <li>two</li>
+                        <li>three</li>
+                        <li>four</li>
+                    </ul>
+                    <h3>29.99 €</h3>
+                    <button>Sign up</button>
+                </div>
+            </div>
+        </div>
+        <div id="contact" class="content form-content">
+            <form action="">
+                <input type="text" placeholder="name">
+                <input type="text" placeholder="e-mail">
+                <button class="contact">contact me</button>
+            </form>
+        </div>
+    </section>
 
-  </section>
-  </body>
+
+</div>
+<footer>
+
+</footer>
+</body>
 </html>
