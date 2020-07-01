@@ -131,6 +131,7 @@ INSERT INTO `quizible`.`question_answers` (`answer`, `right`, `quizId`, `questio
 INSERT INTO `quizible`.`question_answers` (`answer`, `right`, `quizId`, `questionId`, `createdAt`, `updatedAt`) VALUES ('749', '1', '5', '16', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);
 INSERT INTO `quizible`.`question_answers` (`answer`, `right`, `quizId`, `questionId`, `createdAt`, `updatedAt`) VALUES ('749', '1', '5', '16', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);
 
+INSERT INTO `quizible`.`quizcodes` (`code`, `played`, `userId`, `createdAt`, `updatedAt`) VALUES ('test-code', '0', '4', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);
 INSERT INTO `quizible`.`quizcodes` (`code`, `played`, `userId`, `createdAt`, `updatedAt`) VALUES ('1', '0', '4', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);
 INSERT INTO `quizible`.`quizcodes` (`code`, `played`, `userId`, `createdAt`, `updatedAt`) VALUES ('2', '0', '4', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);
 INSERT INTO `quizible`.`quizcodes` (`code`, `played`, `userId`, `createdAt`, `updatedAt`) VALUES ('3', '0', '4', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);

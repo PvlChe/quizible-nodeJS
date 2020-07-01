@@ -24,8 +24,8 @@ const Quiz = sequelize.define('quiz', {
 
 Quiz.hasMany(QuestionAnswer);
 Quiz.belongsTo(Quizcode, {
-    constraint: true,
-    foreignKey: {unique: true},
+    //constraint: true,
+    //foreignKey: {unique: true},
 });
 Quiz.belongsTo(User);
 module.exports = Quiz;
