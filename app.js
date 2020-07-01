@@ -25,13 +25,6 @@ app.use(logger('dev'));
 // bodyparser
 app.use(bodyParser.json());
 
-/*app.use((req,res,next)=>{
-    res.setHeader('Access-Control-Allow-Origin', 'http://localhost/4200');
-    res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, PATCH');
-    res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Authorization');
-    next();
-});*/
-
 app.use(cors());
 
 app.use(express.urlencoded({ extended: false }));
@@ -52,9 +45,8 @@ app.use('/api/answers', questionAnswerRouter);
 app.use('/api/quizcodes', quizcodeRouter);
 app.use('/api/categories', categoriesRouter);
 app.use('/api/users', usersRouter);
-app.use("*", (req,res) => {
-    res.sendFile(path.join(__dirname,"public/client-app/index.html"));
-});// catch 404 and forward to error handler
+
+// catch 404 and forward to error handler
 app.use(function(req, res, next) {
   next(createError(404));
 });
