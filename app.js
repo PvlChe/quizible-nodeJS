@@ -42,13 +42,13 @@ app.use(sassMiddleware({
 app.use(express.static(path.join(__dirname, 'public/client')));
 
 //app.use('/', indexRouter);
-app.use('/usersDef', usersDefRouter);
-app.use('/questions', questionsRouter);
-app.use('/quizzes', quizRouter);
-app.use('/answers', questionAnswerRouter);
-app.use('/quizcodes', quizcodeRouter);
-app.use('/categories', categoriesRouter);
-app.use('/users', usersRouter);
+// app.use('/usersDef', usersDefRouter);
+// app.use('/questions', questionsRouter);
+// app.use('/quizzes', quizRouter);
+// app.use('/answers', questionAnswerRouter);
+// app.use('/quizcodes', quizcodeRouter);
+// app.use('/categories', categoriesRouter);
+// app.use('/users', usersRouter);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
