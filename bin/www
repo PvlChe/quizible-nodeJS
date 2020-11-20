@@ -21,12 +21,13 @@ app.set('port', port);
  * Create HTTP server.
  */
 
-const server = http.createServer(app);
+//const server = http.createServer(app);
 
 /**
  * Listen on provided port, on all network interfaces.
  */
 
+/*
 sequelize
   .sync()
   .then(res => {
@@ -38,6 +39,7 @@ sequelize
   })
   .catch(err => console.log(err));
 
+*/
 
 
 /**
