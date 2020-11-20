@@ -1,3 +1,5 @@
+const serveStatic = require('serve-static');
+
 const createError = require('http-errors');
 const express = require('express');
 const path = require('path');
@@ -39,9 +41,10 @@ app.use(sassMiddleware({
   indentedSyntax: false, // true = .sass and false = .scss
   sourceMap: true
 }));
+
 app.use(express.static(path.join(__dirname, 'public/client')));
 
-//app.use('/', indexRouter);
+
 // app.use('/usersDef', usersDefRouter);
 // app.use('/questions', questionsRouter);
 // app.use('/quizzes', quizRouter);
