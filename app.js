@@ -41,7 +41,7 @@ app.use(sassMiddleware({
 }));
 app.use(express.static(path.join(__dirname, 'public/client')));
 
-app.use('/', indexRouter);
+//app.use('/', indexRouter);
 app.use('/usersDef', usersDefRouter);
 app.use('/questions', questionsRouter);
 app.use('/quizzes', quizRouter);
