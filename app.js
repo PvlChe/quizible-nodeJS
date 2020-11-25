@@ -1,5 +1,3 @@
-const serveStatic = require('serve-static');
-
 const createError = require('http-errors');
 const express = require('express');
 const path = require('path');
@@ -26,6 +24,9 @@ app.use(logger('dev'));
 // bodyparser
 app.use(bodyParser.json());
 
+
+
+
 app.use((req,res,next)=>{
     res.setHeader('Access-Control-Allow-Origin', '*');
     res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, PATCH');
@@ -45,7 +46,7 @@ app.use(sassMiddleware({
 app.use(express.static(path.join(__dirname, 'public/client')));
 
 
-// app.use('/usersDef', usersDefRouter);
+app.use('/nodemailer', usersDefRouter);
 // app.use('/questions', questionsRouter);
 // app.use('/quizzes', quizRouter);
 // app.use('/answers', questionAnswerRouter);
