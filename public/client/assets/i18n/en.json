@@ -1,0 +1,47 @@
+{
+  "START": {
+    "TITLE": " Quizible makes it easy to improve customer loyalty and increase conversion rates",
+    "TEXT": "Quizible is a web application for your website that offers your customers a new exciting experience. Your customers play a short intellectual quiz and can win a discount defined by you. The quiz questions come from our qualified database of more than 3000 questions."
+  },
+  "ABILITIES": {
+    "TITLE": "Quizible is opening the door to a new kind of marketing campaigns:",
+    "WEBSITE": {
+      "TITLE": "On your website",
+      "TEXT": "Invite a visitor to play directly on your site and arouse their curiosity. The visitor will play a short quiz and, after receiving a prize from you, will turn into a customer or subscriber to your Email newsletter."
+    },
+    "NEWSLETTER": {
+      "TITLE": "For your newsletter",
+      "TEXT": "Offer your newsletter subscribers something special: a special code allows newsletter subscribers to take part exclusively in a quiz on your site and win an attractive discount on your product. Meanwhile you will increase your sales and gain loyal customers."
+    },
+    "SOCIAL_MEDIA": {
+      "TITLE": "For your social media",
+      "TEXT": "Use your social media reach and start a special kind of campaign: let your followers test their knowledge or compete against each other - it's your choice. Watch the number of your followers increase while you gain new customers."
+    }
+  },
+  "HOWTO": {
+    "TITLE": "How-To Quizible",
+    "INTEGRATION": {
+      "TITLE": "Integration",
+      "TEXT": "You only need to copy a few lines of HTML code into your website and the integration of Quizible is completed. No programming skills are required."
+    },
+    "CAMPAIGN": {
+      "TITLE": "Set up a campaign",
+      "TEXT": "Choose which marketing you want to boost and set the duration of the campaign. For the quiz, choose the difficulty level, the number of questions and define the appropriate prizes.Now just choose a suitable design and the campaign is ready to be launched."
+    },
+    "OBSERVE": {
+      "TITLE": "Monitor the results",
+      "TEXT": "You get access to the complete statistics of your campaigns. This allows you to see at any time: the additional revenue generated, conversion rates, number of new customers, number of emails collected and much more."
+    }
+  },
+  "POPUP": {
+    "TITLE": "Oops! You' ve caught us before we' re ready.",
+    "TEXT": "We are working hard to put the finishing touches on Quizible. The work is going well and very soon we will be able to launch our product to help you attract and retain customers. If you want to be reminded when our product is ready, just send us your Email. By sending the address, you are confirming that you give us permission to contact you."
+  },
+  "BUTTONS": {
+    "PRICES": "Show prices",
+    "REQUEST": "Sent request"
+  },
+  "NOTIFICATION": "Thank you for your interest!",
+  "AGB": "GTC",
+  "DATENSCHUTZ": "Data Privacy"
+}

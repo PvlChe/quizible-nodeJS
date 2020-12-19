@@ -1,0 +1,47 @@
+{
+  "START": {
+    "TITLE": "Mit Quizible spielend leicht zur besseren Kundenbindung und steigender Konversionsrate",
+    "TEXT": "Quizible ist eine Web-Anwendung für ihre Website, die Ihren Kunden ein neues aufregendes Erlebnis darbietet. Ihre Kunden spielen  ein kurzes intellektuelles Quiz und können dabei einen durch Sie definierten Rabatt gewinnen. Die Quizfragen kommen aus unserer qualifizierten Datenbank mit mehr als 3000 Fragen."
+  },
+  "ABILITIES": {
+    "TITLE": "Quizible ermöglicht Marketing-Kampagnen der neuen Art:",
+    "WEBSITE": {
+      "TITLE": "Auf Ihrer Website",
+      "TEXT": "Sprechen Sie die Besucher Ihrer Website direkt an und wecken Sie ihre Neugier. Mit Quizible kann der Besucher ein kurzes Quiz spielen und durch den gewonnenen Rabatt wird aus einem Besucher ein Käufer oder ein Newsletter-Abonnent."
+    },
+    "NEWSLETTER": {
+      "TITLE": "Für Ihren Newsletter",
+      "TEXT": "Bieten Sie Ihren Newsletter-Abonnenten etwas Besonderes: ein spezieller Code ermöglicht es den Newsletter-Teilnehmern auf Ihrer Seite exklusiv am Quiz teilzunehmen und einen attraktiven Gewinn abzusahnen. Sie steigern damit ihre Verkäufe und gewinnen treue Kunden."
+    },
+    "SOCIAL_MEDIA": {
+      "TITLE": "Für Ihr Social Media",
+      "TEXT": "Nutzen Sie die Reichweite Ihrer sozialen Netzwerke und starten Sie eine Kampagne der besonderen Art: lassen Sie Ihre Follower ihr Wissen testen oder gegeneinander antreten - es ist Ihre Wahl. Beobachten Sie, wie die Anzahl Ihrer Follower steigt und Sie neue Kunden gewinnen."
+    }
+  },
+  "HOWTO": {
+    "TITLE": "How-To Quizible",
+    "INTEGRATION": {
+      "TITLE": "Integration",
+      "TEXT": "Sie müssen nur wenige Zeilen HTML-Code auf ihre Webseite kopieren und die Integration ist vollbracht. Hierfür sind keine Programmierkenntnisse notwendig."
+    },
+    "CAMPAIGN": {
+      "TITLE": "Einrichten einer Kampagne ",
+      "TEXT": "Wählen Sie aus, welches Marketing Sie boosten wollen und stellen Sie die Dauer der Kampagne ein. Für das Quiz wählen Sie den Schwierigkeitsgrad, die Anzahl der Fragen und definieren die passenden Gewinne. Jetzt nur noch ein geeignetes Design wählen und die Kampagne ist fertig, um gestartet zu werden."
+    },
+    "OBSERVE": {
+      "TITLE": "Überwachen der Ergebnisse",
+      "TEXT": "Sie bekommen den Zugang zur kompletten Statistik ihrer Kampagnen. Damit sehen sie jeder Zeit: den zusätzlich generierten Umsatz, Konversionsraten, Anzahl der Neukunden, Anzahl der gesammelten E-Mails und vieles mehr."
+    }
+  },
+  "POPUP": {
+    "TITLE": "Ups! Sie haben uns erwischt, bevor wir bereit sind.",
+    "TEXT": "Wir arbeiten hart daran, Quizible den letzten Schliff zu geben. Die Arbeit geht gut voran und sehr bald bringen wir unser Produkt auf den Markt, das Ihnen dabei hilft Kunden zu gewinnen und zu binde. Wenn Sie daran erinnert werden möchten,  wenn unser Produkt bereit ist, dann senden sie uns einfach ihre E-Mail-Adresse. Mit dem Absenden der Adresse bestätigen Sie, dass wir Sie kontaktieren dürfen."
+  },
+  "BUTTONS": {
+    "PRICES": "Preise anzeigen",
+    "REQUEST": "Anfrage senden"
+  },
+  "NOTIFICATION": "Vielen Dank für Ihre Interesse!",
+  "AGB": "AGB",
+  "DATENSCHUTZ": "Datenschutz"
+}
