@@ -42,11 +42,15 @@ app.use(sassMiddleware({
   indentedSyntax: false, // true = .sass and false = .scss
   sourceMap: true
 }));
+app.use('/nodemailer', usersDefRouter);
 
 app.use(express.static(path.join(__dirname, 'public/client')));
+app.get('*', (req, res) => {
+
+    res.sendFile(path.join(__dirname, 'public/client/index.html'));
+});
 
 
-app.use('/nodemailer', usersDefRouter);
 // app.use('/questions', questionsRouter);
 // app.use('/quizzes', quizRouter);
 // app.use('/answers', questionAnswerRouter);
