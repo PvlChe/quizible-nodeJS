@@ -4,7 +4,7 @@
     "TEXT": "Quizible ist eine Web-Anwendung für ihre Website, die Ihren Kunden ein neues aufregendes Erlebnis darbietet. Ihre Kunden spielen  ein kurzes intellektuelles Quiz und können dabei einen durch Sie definierten Rabatt gewinnen. Die Quizfragen kommen aus unserer qualifizierten Datenbank mit mehr als 3000 Fragen."
   },
   "ABILITIES": {
-    "TITLE": "Quizible ermöglicht Marketing-Kampagnen der neuen Art:",
+    "TITLE": "Quizible ermöglicht Marketing-Kampagnen der neuen Art",
     "WEBSITE": {
       "TITLE": "Auf Ihrer Website",
       "TEXT": "Sprechen Sie die Besucher Ihrer Website direkt an und wecken Sie ihre Neugier. Mit Quizible kann der Besucher ein kurzes Quiz spielen und durch den gewonnenen Rabatt wird aus einem Besucher ein Käufer oder ein Newsletter-Abonnent."
@@ -41,7 +41,7 @@
     "PRICES": "Preise anzeigen",
     "REQUEST": "Anfrage senden"
   },
-  "NOTIFICATION": "Vielen Dank für Ihre Interesse!",
+  "NOTIFICATION": "Vielen Dank für Ihre Anfrage!",
   "AGB": "AGB",
   "DATENSCHUTZ": "Datenschutz"
 }

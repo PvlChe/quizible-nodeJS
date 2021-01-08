@@ -4,7 +4,7 @@
     "TEXT": "Quizible is a web application for your website that offers your customers a new exciting experience. Your customers play a short intellectual quiz and can win a discount defined by you. The quiz questions come from our qualified database of more than 3000 questions."
   },
   "ABILITIES": {
-    "TITLE": "Quizible is opening the door to a new kind of marketing campaigns:",
+    "TITLE": "Quizible opens the door to a new kind of marketing campaigns",
     "WEBSITE": {
       "TITLE": "On your website",
       "TEXT": "Invite a visitor to play directly on your site and arouse their curiosity. The visitor will play a short quiz and, after receiving a prize from you, will turn into a customer or subscriber to your Email newsletter."
@@ -34,14 +34,14 @@
     }
   },
   "POPUP": {
-    "TITLE": "Oops! You' ve caught us before we' re ready.",
-    "TEXT": "We are working hard to put the finishing touches on Quizible. The work is going well and very soon we will be able to launch our product to help you attract and retain customers. If you want to be reminded when our product is ready, just send us your Email. By sending the address, you are confirming that you give us permission to contact you."
+    "TITLE": "Oops! You've caught us before we're ready.",
+    "TEXT": "We are working hard to put the finishing touches on Quizible. The work is going well and very soon we will be able to launch our product to help you attract and retain customers. If you want to be reminded when our product is ready, just send us your email. By sending the address, you are confirming that you give us permission to contact you."
   },
   "BUTTONS": {
     "PRICES": "Show prices",
-    "REQUEST": "Sent request"
+    "REQUEST": "Send request"
   },
-  "NOTIFICATION": "Thank you for your interest!",
+  "NOTIFICATION": "Thank you for your request!",
   "AGB": "GTC",
   "DATENSCHUTZ": "Data Privacy"
 }
