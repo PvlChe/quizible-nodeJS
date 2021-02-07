@@ -33,9 +33,9 @@
       "TEXT": "You get access to the complete statistics of your campaigns. This allows you to see at any time: the additional revenue generated, conversion rates, number of new customers, number of emails collected and much more."
     }
   },
-  "POPUP": {
-    "TITLE": "Oops! You've caught us before we're ready.",
-    "TEXT": "We are working hard to put the finishing touches on Quizible. The work is going well and very soon we will be able to launch our product to help you attract and retain customers. If you want to be reminded when our product is ready, just send us your email. By sending the address, you are confirming that you give us permission to contact you."
+  "FEEDBACK_FORM": {
+    "TITLE": "Oops! You've caught us before we're ready",
+    "TEXT": "We are working hard to put the finishing touches on Quizible. The work is going well and very soon we will be able to launch our product to help you engage and retain customers. If you´d like to be reminded when our product is ready, just send us your email via the form below."
   },
   "BUTTONS": {
     "PRICES": "Show prices",

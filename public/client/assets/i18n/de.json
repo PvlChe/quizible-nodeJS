@@ -33,9 +33,9 @@
       "TEXT": "Sie bekommen den Zugang zur kompletten Statistik ihrer Kampagnen. Damit sehen sie jeder Zeit: den zusätzlich generierten Umsatz, Konversionsraten, Anzahl der Neukunden, Anzahl der gesammelten E-Mails und vieles mehr."
     }
   },
-  "POPUP": {
+  "FEEDBACK_FORM": {
     "TITLE": "Ups! Sie haben uns erwischt, bevor wir bereit sind.",
-    "TEXT": "Wir arbeiten hart daran, Quizible den letzten Schliff zu geben. Die Arbeit geht gut voran und sehr bald bringen wir unser Produkt auf den Markt, das Ihnen dabei hilft Kunden zu gewinnen und zu binde. Wenn Sie daran erinnert werden möchten,  wenn unser Produkt bereit ist, dann senden sie uns einfach ihre E-Mail-Adresse. Mit dem Absenden der Adresse bestätigen Sie, dass wir Sie kontaktieren dürfen."
+    "TEXT": "Wir arbeiten hart daran, Quizible den letzten Schliff zu geben. Die Arbeit geht gut voran und sehr bald bringen wir Quizible auf den Markt, das Ihnen dabei hilft Kunden zu engagieren und zu binden. Wenn Sie daran erinnert werden möchten, wenn Quizible bereit ist, dann senden sie uns einfach ihre E-Mail-Adresse durch das Google Form unten."
   },
   "BUTTONS": {
     "PRICES": "Preise anzeigen",
