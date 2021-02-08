@@ -38,8 +38,8 @@
     "TEXT": "We are working hard to put the finishing touches on Quizible. The work is going well and very soon we will be able to launch our product to help you engage and retain customers. If you´d like to be reminded when our product is ready, just send us your email via the form below."
   },
   "BUTTONS": {
-    "PRICES": "Show prices",
-    "REQUEST": "Send request"
+    "PRICES": "SHOW PRICES",
+    "POPUP": "SHOW DEMO"
   },
   "NOTIFICATION": "Thank you for your request!",
   "AGB": "GTC",
