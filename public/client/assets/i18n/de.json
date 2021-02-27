@@ -43,5 +43,49 @@
   },
   "NOTIFICATION": "Vielen Dank für Ihre Anfrage!",
   "AGB": "AGB",
-  "DATENSCHUTZ": "Datenschutz"
+  "DATENSCHUTZ": "Datenschutz",
+  "DEMO-POPUP": {
+    "TITLE": "Solches Pop-up Fenster erscheint auf Ihrer Website und schlägt den Besuchern vor, ein Bonus zu gewinnen. Zum Beispiel einen Rabatt von 25 %.",
+    "EXPLANATION": "Tragen Sie den einmaligen Code um Quiz zu starten (nicht notwendig in Demo-Version)",
+    "RULES-TITLE": "Spielregeln",
+    "RULES": {
+      "ONE": "1 Versuch",
+      "TWO": "4 Fragen",
+      "THREE": "15 Sekunden pro Antwort"
+    },
+    "START-BUTTON": "QUIZ STARTEN"
+  },
+  "QUESTION1": {
+    "QUESTION": "Wie heißt unsere Galaxie?",
+    "ANSWER1": "Milchstraße",
+    "ANSWER2": "Sombrero",
+    "ANSWER3": "Sonnensystem",
+    "ANSWER4": "Andromeda"
+  },
+  "QUESTION2": {
+    "QUESTION": "Wo befindet sich der Vulkan Ätna?",
+    "ANSWER1": "Sardinien",
+    "ANSWER2": "Sizilien",
+    "ANSWER3": "Korsika",
+    "ANSWER4": "Balearen"
+  },
+  "QUESTION3": {
+    "QUESTION": "Wie Viele Zähne hat die Schildkröte?",
+    "ANSWER1": "24",
+    "ANSWER2": "56",
+    "ANSWER3": "keine",
+    "ANSWER4": "48"
+  },
+  "QUESTION4": {
+    "QUESTION": "Wie viele Sterne hatte die amerikanische Flagge in Jahr 1777?",
+    "ANSWER1": "15",
+    "ANSWER2": "12",
+    "ANSWER3": "14",
+    "ANSWER4": "13"
+  },
+  "RESULT": {
+    "TITLE1": "Ihr ehrlich verdienter Rabatt ist ",
+    "TITLE2": " auf Ihren Kauf!",
+    "CODE_TITLE": "Nutzen Sie dieser Code um Ihr Gewinn zu sichern."
+  }
 }

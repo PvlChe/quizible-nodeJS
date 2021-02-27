@@ -43,5 +43,49 @@
   },
   "NOTIFICATION": "Thank you for your request!",
   "AGB": "GTC",
-  "DATENSCHUTZ": "Data Privacy"
+  "DATENSCHUTZ": "Data Privacy",
+  "DEMO-POPUP": {
+    "TITLE": "Such a popup window appears on your website and offers the visitors to win some bonus defined by you . Let say a discount of 25 %.",
+    "EXPLANATION": "Enter the unique Code to start the Quiz (not required in demo-verison).",
+    "RULES-TITLE": "Game rules",
+    "RULES": {
+      "ONE": "1 attempt",
+      "TWO": "4 questions",
+      "THREE": "15 seconds pro answer"
+    },
+    "START-BUTTON": "START QUIZ"
+  },
+  "QUESTION1": {
+    "QUESTION": "Which of these birds has the biggest brain relative to its size?",
+    "ANSWER1": "Ostrich",
+    "ANSWER2": "Hummingbird",
+    "ANSWER3": "Sparrow",
+    "ANSWER4": "Eagle"
+  },
+  "QUESTION2": {
+    "QUESTION": "Between which two planets are asteroids chiefly found?",
+    "ANSWER1": "Neptune and Pluto",
+    "ANSWER2": "Jupiter and Saturn",
+    "ANSWER3": "Mars and Jupiter",
+    "ANSWER4": "Saturn and Uranus"
+  },
+  "QUESTION3": {
+    "QUESTION": "Which instrument does not have strings?",
+    "ANSWER1": "Guitar",
+    "ANSWER2": "Cello",
+    "ANSWER3": "Trombone",
+    "ANSWER4": "Bass"
+  },
+  "QUESTION4": {
+    "QUESTION": "To what country belongs Greenland?",
+    "ANSWER1": "Canada",
+    "ANSWER2": "Iceland",
+    "ANSWER3": "Norway",
+    "ANSWER4": "Denmark"
+  },
+  "RESULT": {
+    "TITLE1": "Your honestly earned discount is ",
+    "TITLE2": " off your purchase!",
+    "CODE_TITLE": "Use this code to secure your winnings."
+  }
 }

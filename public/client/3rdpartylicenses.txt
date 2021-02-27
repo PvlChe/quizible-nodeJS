@@ -69,6 +69,9 @@ MIT
 @ngx-translate/http-loader
 MIT
 
+angular-responsive-carousel
+Apache License 2.0
+
 css-loader
 MIT
 Copyright JS Foundation and other contributors
