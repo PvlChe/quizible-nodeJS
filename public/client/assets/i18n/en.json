@@ -45,8 +45,8 @@
   "AGB": "GTC",
   "DATENSCHUTZ": "Data Privacy",
   "DEMO-POPUP": {
-    "TITLE": "Such a popup window appears on your website and offers the visitors to win some bonus defined by you . Let say a discount of 25 %.",
-    "EXPLANATION": "Enter the unique Code to start the Quiz (not required in demo-verison).",
+    "TITLE": "Such a popup window appears on your website and offers the visitors to win some bonus defined by you. Let say a discount of 25 %.",
+    "EXPLANATION": "Enter your email or your personal Quiz-Codem(not required in demo-verison).",
     "RULES-TITLE": "Game rules",
     "RULES": {
       "ONE": "1 attempt",
@@ -63,11 +63,11 @@
     "ANSWER4": "Eagle"
   },
   "QUESTION2": {
-    "QUESTION": "Between which two planets are asteroids chiefly found?",
-    "ANSWER1": "Neptune and Pluto",
-    "ANSWER2": "Jupiter and Saturn",
-    "ANSWER3": "Mars and Jupiter",
-    "ANSWER4": "Saturn and Uranus"
+    "QUESTION": "Which is NOT a climbing plant?",
+    "ANSWER1": "Wisteria",
+    "ANSWER2": "Freesia",
+    "ANSWER3": "Ivy",
+    "ANSWER4": "Grape"
   },
   "QUESTION3": {
     "QUESTION": "Which instrument does not have strings?",
@@ -85,7 +85,7 @@
   },
   "RESULT": {
     "TITLE1": "Your honestly earned discount is ",
-    "TITLE2": " off your purchase!",
-    "CODE_TITLE": "Use this code to secure your winnings."
+    "TITLE2": "!",
+    "CODE_TITLE": "Use this code to secure your discount"
   }
 }

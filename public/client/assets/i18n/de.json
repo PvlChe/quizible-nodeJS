@@ -45,8 +45,8 @@
   "AGB": "AGB",
   "DATENSCHUTZ": "Datenschutz",
   "DEMO-POPUP": {
-    "TITLE": "Solches Pop-up Fenster erscheint auf Ihrer Website und schlägt den Besuchern vor, ein Bonus zu gewinnen. Zum Beispiel einen Rabatt von 25 %.",
-    "EXPLANATION": "Tragen Sie den einmaligen Code um Quiz zu starten (nicht notwendig in Demo-Version)",
+    "TITLE": "Solches Pop-up Fenster erscheint auf Ihrer Website und schlägt den Besuchern vor, einen Rabatt von z.B. 25 % zu gewinnen.",
+    "EXPLANATION": "Tragen Sie Ihre E-Mail oder Ihren persönlichen Quiz-Code ein (nicht notwendig in Demo-Version)",
     "RULES-TITLE": "Spielregeln",
     "RULES": {
       "ONE": "1 Versuch",
@@ -70,22 +70,22 @@
     "ANSWER4": "Balearen"
   },
   "QUESTION3": {
-    "QUESTION": "Wie Viele Zähne hat die Schildkröte?",
-    "ANSWER1": "24",
-    "ANSWER2": "56",
-    "ANSWER3": "keine",
-    "ANSWER4": "48"
+    "QUESTION": "Wer komponierte die Oper \"Zar und Zimmermann\"?",
+    "ANSWER1": "Strauss",
+    "ANSWER2": "Verdi",
+    "ANSWER3": "Lortzing",
+    "ANSWER4": "Wagner"
   },
   "QUESTION4": {
-    "QUESTION": "Wie viele Sterne hatte die amerikanische Flagge in Jahr 1777?",
-    "ANSWER1": "15",
-    "ANSWER2": "12",
-    "ANSWER3": "14",
-    "ANSWER4": "13"
+    "QUESTION": "Zu welchem Land gehört Grönland? ",
+    "ANSWER1": "Norwegen",
+    "ANSWER2": "Island",
+    "ANSWER3": "Kanada",
+    "ANSWER4": "Dänemark"
   },
   "RESULT": {
     "TITLE1": "Ihr ehrlich verdienter Rabatt ist ",
-    "TITLE2": " auf Ihren Kauf!",
-    "CODE_TITLE": "Nutzen Sie dieser Code um Ihr Gewinn zu sichern."
+    "TITLE2": "!",
+    "CODE_TITLE": "Nutzen Sie diesen Code um Ihr Gewinn zu sichern"
   }
 }
