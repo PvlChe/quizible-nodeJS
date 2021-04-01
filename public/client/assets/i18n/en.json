@@ -1,41 +1,41 @@
 {
   "START": {
-    "TITLE": " Quizible makes it easy to improve customer loyalty and increase conversion rates",
-    "TEXT": "Quizible is a web application for your website that offers your customers a new exciting experience. Your customers play a short intellectual quiz and can win a discount defined by you. The quiz questions come from our qualified database of more than 3000 questions."
+    "TITLE": "It won't take you a single minute to make an entertaining quiz. Quizible did all the work for you.",
+    "TEXT": "\"With Quizible, visitors of your website can play an interesting quiz to win any bonus you set or to simply learn something new. Choose any quiz topic from our database of thousands of questions, and your website will excite crowds of visitors."
   },
   "ABILITIES": {
-    "TITLE": "Quizible opens the door to a new kind of marketing campaigns",
+    "TITLE": "Quizible will take your website's key metrics to the next level",
     "WEBSITE": {
-      "TITLE": "On your website",
-      "TEXT": "Invite a visitor to play directly on your site and arouse their curiosity. The visitor will play a short quiz and, after receiving a prize from you, will turn into a customer or subscriber to your Email newsletter."
+      "TITLE": "Engagement",
+      "TEXT": "Learning something new and experiencing joy is why people reload their favorite website and check their emails over and over again. A variety of engaging quizzes on any topic will draw the attention of leaving visitors, and increase both the time spent and repeat visits of your website."
     },
     "NEWSLETTER": {
-      "TITLE": "For your newsletter",
-      "TEXT": "Offer your newsletter subscribers something special: a special code allows newsletter subscribers to take part exclusively in a quiz on your site and win an attractive discount on your product. Meanwhile you will increase your sales and gain loyal customers."
+      "TITLE": "Conversion",
+      "TEXT": "It's always nice to win, but winning with own wits is much better. Subscribe to a newsletter, make a purchase, order a call or download a file – no matter what the desired action on your website is, the magic of a quiz will help you achieve maximum conversions."
     },
     "SOCIAL_MEDIA": {
-      "TITLE": "For your social media",
-      "TEXT": "Use your social media reach and start a special kind of campaign: let your followers test their knowledge or compete against each other - it's your choice. Watch the number of your followers increase while you gain new customers."
+      "TITLE": "Awareness",
+      "TEXT": "The desire to share knowledge and brag about successes is the main reason for social media activity. Quizzes like nothing else will motivate your users to click the \"share\" button. And an incredible number of people will naturally learn about your brand."
     }
   },
   "HOWTO": {
-    "TITLE": "How-To Quizible",
+    "TITLE": "How to start using Quizible",
     "INTEGRATION": {
-      "TITLE": "Integration",
-      "TEXT": "You only need to copy a few lines of HTML code into your website and the integration of Quizible is completed. No programming skills are required."
+      "TITLE": "Integrate on your website",
+      "TEXT": "You only need to copy a few lines of HTML code on your website and integration of Quizible is ready. It works on any platform and no coding is needed."
     },
     "CAMPAIGN": {
-      "TITLE": "Set up a campaign",
-      "TEXT": "Choose which marketing you want to boost and set the duration of the campaign. For the quiz, choose the difficulty level, the number of questions and define the appropriate prizes.Now just choose a suitable design and the campaign is ready to be launched."
+      "TITLE": "Configure the quiz",
+      "TEXT": "Set any quiz topic, number of questions and a bonus for correct answers. Select a color scheme that suits your website, and your quiz is ready to launch."
     },
     "OBSERVE": {
-      "TITLE": "Monitor the results",
-      "TEXT": "You get access to the complete statistics of your campaigns. This allows you to see at any time: the additional revenue generated, conversion rates, number of new customers, number of emails collected and much more."
+      "TITLE": "Get excited about the results",
+      "TEXT": "Quizible analyzes all the data you need on key metrics: conversions, email addresses collected, number of shares on social networks and much more."
     }
   },
   "FEEDBACK_FORM": {
     "TITLE": "Oops! You've caught us before we're ready",
-    "TEXT": "We are working hard to put the finishing touches on Quizible. The work is going well and very soon we will be able to launch our product to help you engage and retain customers. If you´d like to be reminded when our product is ready, just send us your email via the form below."
+    "TEXT": "We're working hard to put the finishing touches on Quizible. The work is going well and very soon we will be able to launch. If you´d like to be notified when Quizible is ready, just send us your email via the form below."
   },
   "BUTTONS": {
     "PRICES": "SHOW PRICES",
@@ -45,13 +45,13 @@
   "AGB": "GTC",
   "DATENSCHUTZ": "Data Privacy",
   "DEMO-POPUP": {
-    "TITLE": "Such a popup window appears on your website and offers the visitors to win some bonus defined by you. Let say a discount of 25 %.",
-    "EXPLANATION": "Enter your email or your personal Quiz-Codem(not required in demo-verison).",
+    "TITLE": "Such a popup window appears on your website and offers the visitors to win some bonus. Let say a 25% discount on a purchase.",
+    "EXPLANATION": "Enter your email or your personal Quiz-Code (not required in demo-version).",
     "RULES-TITLE": "Game rules",
     "RULES": {
       "ONE": "1 attempt",
       "TWO": "4 questions",
-      "THREE": "15 seconds pro answer"
+      "THREE": "15 seconds per answer"
     },
     "START-BUTTON": "START QUIZ"
   },
@@ -84,7 +84,7 @@
     "ANSWER4": "Denmark"
   },
   "RESULT": {
-    "TITLE1": "Your honestly earned discount is ",
+    "TITLE1": "Your fairly earned discount is ",
     "TITLE2": "!",
     "CODE_TITLE": "Use this code to secure your discount"
   }
