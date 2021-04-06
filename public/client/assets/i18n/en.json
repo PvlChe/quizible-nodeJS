@@ -1,7 +1,7 @@
 {
   "START": {
     "TITLE": "It won't take you a single minute to make an entertaining quiz. Quizible did all the work for you.",
-    "TEXT": "\"With Quizible, visitors of your website can play an interesting quiz to win any bonus you set or to simply learn something new. Choose any quiz topic from our database of thousands of questions, and your website will excite crowds of visitors."
+    "TEXT": "With Quizible, visitors of your website can play an interesting quiz to win any bonus you set or to simply learn something new. Choose any quiz topic from our database of thousands of questions, and your website will excite crowds of visitors."
   },
   "ABILITIES": {
     "TITLE": "Quizible will take your website's key metrics to the next level",
@@ -25,7 +25,7 @@
       "TEXT": "You only need to copy a few lines of HTML code on your website and integration of Quizible is ready. It works on any platform and no coding is needed."
     },
     "CAMPAIGN": {
-      "TITLE": "Configure the quiz",
+      "TITLE": "Set up a quiz",
       "TEXT": "Set any quiz topic, number of questions and a bonus for correct answers. Select a color scheme that suits your website, and your quiz is ready to launch."
     },
     "OBSERVE": {
@@ -45,7 +45,7 @@
   "AGB": "GTC",
   "DATENSCHUTZ": "Data Privacy",
   "DEMO-POPUP": {
-    "TITLE": "Such a popup window appears on your website and offers the visitors to win some bonus. Let say a 25% discount on a purchase.",
+    "TITLE": "Such a popup window appears on your website and offers the visitors to win a bonus. Let´s say a 25% discount on a purchase.",
     "EXPLANATION": "Enter your email or your personal Quiz-Code (not required in demo-version).",
     "RULES-TITLE": "Game rules",
     "RULES": {

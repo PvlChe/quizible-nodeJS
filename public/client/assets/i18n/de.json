@@ -15,27 +15,27 @@
     },
     "SOCIAL_MEDIA": {
       "TITLE": "Markenbekanntheit",
-      "TEXT": "Der Wunsch, Wissen zu verbreiten und mit Erfolgen zu prahlen, ist der Hauptgrund für die Aktivität in den sozialen Medien. Quizze motivieren Ihre Nutzer wie nichts anderes, auf den \"Teilen\"-Button zu klicken. Und eine riesige Anzahl von Menschen wird auf natürliche Weise von Ihrer Marke erfahren."
+      "TEXT": "Der Wunsch, Wissen zu verbreiten und mit Erfolgen zu prahlen, ist der Hauptgrund für die Aktivität in den sozialen Medien. Quizze motivieren Ihre Nutzer wie nichts anderes, auf den Teilen-Button zu klicken. Und eine riesige Anzahl von Menschen wird auf natürliche Weise von Ihrer Marke erfahren."
     }
   },
   "HOWTO": {
     "TITLE": "So starten Sie mit Quizible",
     "INTEGRATION": {
       "TITLE": "Quizible auf der Website integrieren",
-      "TEXT": "Sie müssen nur wenige Zeilen HTML-Code auf ihre Webseite kopieren und die Integration ist vollbracht. Das funktioniert mit jeder Plattform und keine Programmierkenntnisse sind notwendig."
+      "TEXT": "Sie müssen nur wenige Zeilen HTML-Code auf ihre Webseite kopieren und die Integration ist vollbracht. Das funktioniert mit jeder Plattform und Sie müssen nichts programmieren."
     },
     "CAMPAIGN": {
       "TITLE": "Ein Quiz einrichten",
       "TEXT": "Wählen Sie ein Quiz-Thema, die Anzahl der Fragen und Boni für richtige Antworten. Wählen Sie ein Farbschema, das zu Ihrer Website passt, und schon ist Ihr Quiz startklar."
     },
     "OBSERVE": {
-      "TITLE": "Über die Ergebnisse freuen",
-      "TEXT": "Quizible analysiert alle Daten, die Sie für die wichtigsten Kennzahlen Ihrer Website benötigen: Konversionen, gesammelte E-Mail-Adressen, Anzahl der \"Shares\" in sozialen Netzwerken und vieles mehr."
+      "TITLE": "Sich über die Ergebnisse freuen",
+      "TEXT": "Quizible analysiert alle Daten, die Sie für die wichtigsten Kennzahlen Ihrer Website benötigen: Konversionen, gesammelte E-Mail-Adressen, \"Shares\" in sozialen Netzwerken und vieles mehr."
     }
   },
   "FEEDBACK_FORM": {
     "TITLE": "Ups! Sie haben uns erwischt, bevor wir bereit sind.",
-    "TEXT": "Wir arbeiten hart daran, Quizible den letzten Schliff zu geben. Die Arbeit geht gut voran und sehr bald launchen wir Quizible. Wenn Sie daran erinnert werden möchten, wenn Quizible bereit ist, dann senden sie uns einfach ihre E-Mail-Adresse durch das Form unten."
+    "TEXT": "Wir arbeiten hart daran, Quizible den letzten Schliff zu geben. Die Arbeit geht gut voran und sehr bald bringen wir Quizible auf den Markt. Wenn Sie daran erinnert werden möchten, wenn Quizible bereit ist, dann senden sie uns einfach ihre E-Mail-Adresse durch die Form unten."
   },
   "BUTTONS": {
     "PRICES": "PREISE ANZEIGEN",
