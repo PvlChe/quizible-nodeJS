@@ -1,36 +1,36 @@
 {
   "START": {
     "TITLE": "Ein unterhaltsames Quiz zu erstellen, dauert nicht mal eine Minute. Dank Quizible geht es spielend leicht.",
-    "TEXT": "Mit Quizible können die Besucher Ihrer Website ein interessantes Quiz spielen und einen von Ihnen festgelegten Bonus gewinnen oder einfach etwas Neues lernen. Wählen Sie ein beliebiges Quiz-Thema aus Tausenden von Fragen aus, und Ihre Website wird eine Menge von Besuchern begeistern."
+    "TEXT": "Ob kleiner Blog oder großer Online-Shop: durch Quizible werden mehr Besucher zu Abonnenten, wertwollen Nutzer oder Kunden. Das Alles lässt sich erreichen, indem Sie Ihren Besuchern die Möglichkeit geben an einem interaktiven Quiz teilzunehmen."
   },
   "ABILITIES": {
-    "TITLE": "Quizible bringt die wichtigsten Kennzahlen Ihrer Website auf das nächste Level",
+    "TITLE": "So verbessert Quizible auch auf Ihrer Website die wichtigsten Kennzahlen:",
     "WEBSITE": {
       "TITLE": "Engagement",
-      "TEXT": "Etwas Neues zu lernen und Freude zu erleben ist der Grund, warum Menschen ihre Lieblings-Websiten immer wieder besuchen und ihre E-Mails checken. Eine Vielzahl von fesselnden Quizfragen zu beliebigen Themen wird die Aufmerksamkeit von abspringenden Besuchern anhalten und die Dauer und Häufigkeit des Besuchs Ihrer Website erhöhen."
+      "TEXT": "Etwas Neues zu lernen und Freude zu erleben ist der Grund, warum Menschen ihre Lieblings-Websiten immer wieder besuchen und ihre E-Mails checken. Dank eines interessanten und spannenden Quiz bleiben die Besucher nicht nur länger sondern werden Ihre Website häufiger besuchen. Alles, was Sie tun müssen, ist, ein Thema zu wählen und wir erstellen ein passendes Quiz auf Grundlage unserer Datenbank mit tausenden von Fragen. Falls keine passenden Fragen vorhanden sind, können wir diese auch für Sie anlegen."
     },
     "NEWSLETTER": {
       "TITLE": "Konversion",
-      "TEXT": "Es ist immer schön zu gewinnen und mit dem eigenen Kopf zu gewinnen ist doppelt so schön. Einen Newsletter abonnieren, sich auf der Website anmelden, etwas kaufen oder bestellen  – was auch immer die gewünschte Interaktion mit Ihrer Website ist, die Magie eines Quiz wird Ihnen helfen, die maximale Konversionsraten zu erzielen."
+      "TEXT": "Rabatte und kostenlose Boni erzeugen heutzutage nicht mehr das gleiche Interesse wie früher. Erlauben Sie jedoch Ihren Nutzern, Etwas mit ihrem Verstand und durch eigenes Können zu gewinnen, steigert das den Wert des Preises durch Verbundenheit zum Gewinn. Dieses Gefühl wird ihre Chancen, eine gezielte Aktion auszuführen, deutlich erhöhen - egal ob es sich um die Anmeldung zu einem E-Mail-Newsletter oder um einen Kauf handelt."
     },
     "SOCIAL_MEDIA": {
-      "TITLE": "Markenbekanntheit",
-      "TEXT": "Der Wunsch, Wissen zu verbreiten und mit Erfolgen zu prahlen, ist der Hauptgrund für die Aktivität in den sozialen Medien. Quizze motivieren Ihre Nutzer wie nichts anderes, auf den Teilen-Button zu klicken. Und eine riesige Anzahl von Menschen wird auf natürliche Weise von Ihrer Marke erfahren."
+      "TITLE": "Bekanntheit",
+      "TEXT": "Der Wunsch Wissen zu verbreiten und Erfolge mit Freunden und Familie zu teilen, sind die Hauptgründe für die Aktivitäten in den sozialen Medien. Quizible ist ein globales Quiz mit Ranglistenfunktion, das die Benutzer motiviert den Erfolg mit ihren sozialen Netzwerken zu teilen. Auf diese Weise erhöhen Sie den Traffic zu Ihrer Website. So wird eine Vielzahl an Personen auf natürliche Weise von Ihnen erfahren."
     }
   },
   "HOWTO": {
     "TITLE": "So starten Sie mit Quizible",
     "INTEGRATION": {
       "TITLE": "Quizible auf der Website integrieren",
-      "TEXT": "Sie müssen nur wenige Zeilen HTML-Code auf ihre Webseite kopieren und die Integration ist vollbracht. Das funktioniert mit jeder Plattform und Sie müssen nichts programmieren."
+      "TEXT": "Sie müssen nur wenige Zeilen HTML-Code auf Ihre Webseite kopieren und die Integration ist vollbracht. Das funktioniert mit jeder Website und ohne sie dabei zu verlangsamen. Programmieren ist NICHT erforderlich."
     },
     "CAMPAIGN": {
       "TITLE": "Ein Quiz einrichten",
-      "TEXT": "Wählen Sie ein Quiz-Thema, die Anzahl der Fragen und Boni für richtige Antworten. Wählen Sie ein Farbschema, das zu Ihrer Website passt, und schon ist Ihr Quiz startklar."
+      "TEXT": "Wählen Sie ein Quiz-Thema, die Anzahl der Fragen und Boni für richtige Antworten. Legen Sie die Bedingungen für das Erscheinen des Popup-Fensters fest (Timer oder Exit Intent). Der letzte Punkt ist das passende Farbschema und schon ist Ihr Quiz startklar."
     },
     "OBSERVE": {
       "TITLE": "Sich über die Ergebnisse freuen",
-      "TEXT": "Quizible analysiert alle Daten, die Sie für die wichtigsten Kennzahlen Ihrer Website benötigen: Konversionen, gesammelte E-Mail-Adressen, \"Shares\" in sozialen Netzwerken und vieles mehr."
+      "TEXT": "Quizible analysiert alle Daten, die Sie für die wichtigsten Kennzahlen Ihrer Website benötigen: Konversionen, gesammelte E-Mail-Adressen, Anzahl der Klicks aus sozialen Netzwerken und vieles mehr."
     }
   },
   "FEEDBACK_FORM": {

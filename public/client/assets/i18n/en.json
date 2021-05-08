@@ -1,36 +1,36 @@
 {
   "START": {
     "TITLE": "It won't take you a single minute to make an entertaining quiz. Quizible did all the work for you.",
-    "TEXT": "With Quizible, visitors to your website can engage in an interesting quiz to win any bonus you set or to simply learn something new. Choose any quiz topic from our database of thousands of questions, and your website will excite crowds of visitors."
+    "TEXT": "From a small blog to a large online shop: a lot more visitors will want to become your subscribers, users or customers. Just give them an opportunity to play a quiz on your website."
   },
   "ABILITIES": {
-    "TITLE": "Quizible will take your website's key metrics to the next level",
+    "TITLE": "Here is how Quizible can improve your website's key metrics",
     "WEBSITE": {
       "TITLE": "Engagement",
-      "TEXT": "Learning something new and experiencing joy is why people visit their favorite website and check their emails over and over again. A variety of engaging quizzes on any topic will draw the attention of leaving visitors, and increase both the time spent and repeat visits on your website."
+      "TEXT": "Learning something new and experiencing joy are the reasons why people refresh their favourite web pages and check their emails over and over again. Visitors will stay on your website longer and visit more often thanks to an interesting and useful quiz. You just need to choose a topic, and we will provide all the questions from our extensive database or compose them for you free of charge."
     },
     "NEWSLETTER": {
       "TITLE": "Conversion",
-      "TEXT": "It's always nice to win, but winning by your own wits is even better. Subscribe to a newsletter, sign up on the website, order or purchase something – no matter what the desired action on your website is, the magic of a quiz will help you achieve maximum conversions."
+      "TEXT": "\"Discounts and free bonuses no longer keep the same attraction value. But allow your users win something with the power of their mind, and the value of the prize in their eyes will immediately increase. The feeling of winning will greatly enhance the chances of them taking any action you target at - whether it's subscribing to an email newsletter or making a purchase."
     },
     "SOCIAL_MEDIA": {
       "TITLE": "Awareness",
-      "TEXT": "The desire to share knowledge and brag about successes is the main reason for social media activity. Quizzes like nothing else will motivate your users to click the \"share\" button. And an incredible number of people will naturally learn about your brand."
+      "TEXT": "The desire to share knowledge and brag about successes is the main reason for social media activity. Quizible is a global quiz with player rankings that your users can share on their social network profiles. This will increase the traffic to your website, and an incredible amount of people will naturally find out about it."
     }
   },
   "HOWTO": {
     "TITLE": "How to start using Quizible",
     "INTEGRATION": {
       "TITLE": "Integrate on your website",
-      "TEXT": "You only need to copy a few lines of HTML code on your website and integration of Quizible is ready. It works on any platform and no coding is needed."
+      "TEXT": "You only need to copy a few lines of HTML code to your website. It works on any website and won't slow it down. No coding is needed."
     },
     "CAMPAIGN": {
       "TITLE": "Set up a quiz",
-      "TEXT": "Set any quiz topic, number of questions and a bonus for correct answers. Select a color scheme that suits your website, and your quiz is ready to launch."
+      "TEXT": "Select a quiz topic and bonuses for correct answers. Set the conditions for the pop-up window to appear (timer or exit intent). Select a color scheme that suits your website, and your quiz is ready to launch."
     },
     "OBSERVE": {
       "TITLE": "Get excited about the results",
-      "TEXT": "Quizible analyzes all the data you need on key metrics: conversions, email addresses collected, number of shares on social networks and much more."
+      "TEXT": "Quizible analyzes all the data you need on key metrics: conversions, collected email addresses, number of shares from social media and more."
     }
   },
   "FEEDBACK_FORM": {
